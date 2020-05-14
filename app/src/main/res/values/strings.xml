@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LanguageExample</string>
+    <string name="title">Title</string>
+    <string name="title1">Title1</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="start_next">Start next</string>
+</resources>

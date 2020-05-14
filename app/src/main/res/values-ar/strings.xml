@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مثال عنوان</string>
+    <string name="title">عنوان</string>
+    <string name="title1">عنوان1</string>
+    <string name="arabic">عربي</string>
+    <string name="english">انحليزي</string>
+    <string name="start_next">ابدأ التالي</string>
+</resources>
